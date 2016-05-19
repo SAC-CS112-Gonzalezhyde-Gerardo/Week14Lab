@@ -1,0 +1,7 @@
+package Week14Lab;
+
+public interface Week14Lab {
+	int getGeneratedRandomNumber(); //generate a random number
+	String getHistory(); //return tracked history
+
+}
